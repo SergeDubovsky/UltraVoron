@@ -13,6 +13,10 @@
   - [Powge](https://www.aliexpress.us/item/2255800751045001.html?gatewayAdapt=glo2usa4itemAdapt&_randl_shipto=US)?
   - [HIWIN](https://www.aliexpress.com/store/1101290307?spm=a2g0s.8937474.0.0.74562e0erL2U6j)?
 - Electronics
+  - Controller: [BTT Octo Pro](https://biqu.equipment/collections/control-board/products/bigtreetech-octopus-pro-v1-0-chip-f446?variant=40310085812322)
+  - OrangePi 5B
+  - CAN? [EBB2240](https://biqu.equipment/collections/expansion-board/products/bigtreetech-ebb-sb2209-can-v1-0?variant=40214283485282)
+  - [KnoMi](https://biqu.equipment/products/bigtreetech-knomi-v1-0?_pos=64&_sid=e57d520f8&_ss=r)
 - Vibration Management
 - Frame
 - Misc
