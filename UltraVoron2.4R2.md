@@ -21,3 +21,6 @@
 - Buildplate
   - [Heater](https://keenovo.store/collections/standard-keenovo-silicone-heaters/products/keenovo-square-silicone-heater-3d-printer-build-plate-heatbed-heating-pad?variant=12459486314551)
   - [Plate](https://dfh.fm/collections/front-page-new/products/graded-aluminum-beds-by-lightweight-labware?variant=44156405907678)
+  - [Kinematic Mount Brace](https://mandalaroseworks.com/products/kinematic-center-brace-for-voron-2-4)
+  - [Mount wings](https://mandalaroseworks.com/products/voron-wings)
+  - [Kinematic Mount](https://mandalaroseworks.com/products/matched-height-kinematic-kit)
