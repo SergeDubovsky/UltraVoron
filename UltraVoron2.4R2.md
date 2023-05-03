@@ -1,6 +1,22 @@
 # High level vision
 - All HIWIN
-- Chaotic labs CNC
+- Chaotic labs CNC kit
 - Beacon or CL CNC Tap?
 - Nozzle Cam
 - Powge motion
+- Labware graded bed from DFM
+- Kinetic mount from mandalaroseworks
+# BOM
+- Fasteners
+  - [Anodized, magnetic, high grade](https://www.boltdepot.com/Metric_socket_cap_Class_12.9_alloy_steel_black_oxide_finish_3mm_x_0.5mm.aspx)
+- Motion
+  - Powge?
+- Electronics
+- Vibration Management
+- Frame
+- Misc
+- Cables
+- Panels
+- Buildplate
+  - [Heater](https://keenovo.store/collections/standard-keenovo-silicone-heaters/products/keenovo-square-silicone-heater-3d-printer-build-plate-heatbed-heating-pad?variant=12459486314551)
+  - [Plate](https://dfh.fm/collections/front-page-new/products/graded-aluminum-beds-by-lightweight-labware?variant=44156405907678)
