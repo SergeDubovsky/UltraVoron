@@ -10,7 +10,8 @@
 - Fasteners
   - [Anodized, magnetic, high grade](https://www.boltdepot.com/Metric_socket_cap_Class_12.9_alloy_steel_black_oxide_finish_3mm_x_0.5mm.aspx)
 - Motion
-  - Powge?
+  - [Powge](https://www.aliexpress.us/item/2255800751045001.html?gatewayAdapt=glo2usa4itemAdapt&_randl_shipto=US)?
+  - [HIWIN](https://www.aliexpress.com/store/1101290307?spm=a2g0s.8937474.0.0.74562e0erL2U6j)?
 - Electronics
 - Vibration Management
 - Frame
