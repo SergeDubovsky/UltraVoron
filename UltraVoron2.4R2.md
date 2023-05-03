@@ -36,3 +36,5 @@
   - [Kinematic Mount Brace](https://mandalaroseworks.com/products/kinematic-center-brace-for-voron-2-4)
   - [Mount wings](https://mandalaroseworks.com/products/voron-wings)
   - [Kinematic Mount](https://mandalaroseworks.com/products/matched-height-kinematic-kit)
+  - [OSEQ plate](https://oseq.io/products/oseq-safe-sheet-350x350mm)
+  - [OSEQ magnetic backer](https://oseq.io/products/strong-magnetic-sticker-for-350x350-heatbed)
