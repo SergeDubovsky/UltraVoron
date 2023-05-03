@@ -1,5 +1,6 @@
 # High level vision
 - All HIWIN
+- 48v motors
 - Chaotic labs CNC kit
 - Beacon or CL CNC Tap?
 - Nozzle Cam
@@ -19,6 +20,7 @@
   - [KnoMi](https://biqu.equipment/products/bigtreetech-knomi-v1-0?_pos=64&_sid=e57d520f8&_ss=r)
 - Vibration Management
 - Frame
+  - [DFM Space Gray](https://dfh.fm/collections/frames/products/dfh-voron-2-4-frame-kit?variant=43644815737054)
 - Misc
 - Cables
 - Panels
