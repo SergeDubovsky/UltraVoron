@@ -10,13 +10,19 @@
 # BOM
 - Fasteners
   - [Anodized, magnetic, high grade](https://www.boltdepot.com/Metric_socket_cap_Class_12.9_alloy_steel_black_oxide_finish_3mm_x_0.5mm.aspx)
+    - 12.9 seems to be the highes grade. I wonder if there is a way to get the "nice finish" variant of it. Really smooth and precise.
 - Motion
   - [Powge](https://www.aliexpress.us/item/2255800751045001.html?gatewayAdapt=glo2usa4itemAdapt&_randl_shipto=US)?
+    - Need to do more research. Seems to be a great Gucci go-to vendor, but I need to look closer, if there is a way to get even better quality
   - [HIWIN](https://www.aliexpress.com/store/1101290307?spm=a2g0s.8937474.0.0.74562e0erL2U6j)?
+    - Need to check if it is really 100% genuene HIWIN. It seems to be, but it would be nicer to find the official US-based distributer.
 - Electronics
   - Controller: [BTT Octo Pro](https://biqu.equipment/collections/control-board/products/bigtreetech-octopus-pro-v1-0-chip-f446?variant=40310085812322)
-  - OrangePi 5B
+    - That seems to be the most flexilbe option. Also, so far it's to only way to use 48v motors. The Manta seems great as well, however, the CB-1 board might not be the best option, compared to OrangePi5B. Need to research it more. In particular, the CAN support.
+  - OrangePi 5B.
+    - Seems to be the most powerful option on the market.
   - CAN? [EBB2240](https://biqu.equipment/collections/expansion-board/products/bigtreetech-ebb-sb2209-can-v1-0?variant=40214283485282)
+    - 2290 vs 2240, SPI vs UART. Need to research more. Also, there might be some other options.
   - [KnoMi](https://biqu.equipment/products/bigtreetech-knomi-v1-0?_pos=64&_sid=e57d520f8&_ss=r)
 - Vibration Management
 - Frame
