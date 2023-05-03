@@ -1,3 +1,4 @@
+[![preamble](https://img.youtube.com/vi/LXDIS3NzB84/0.jpg)](https://www.youtube.com/watch?v=LXDIS3NzB84 "Opulence, I haz it.")
 # High level vision
 - All HIWIN
 - 48v motors
@@ -32,6 +33,7 @@
 - Panels
 - Buildplate
   - [Heater](https://keenovo.store/collections/standard-keenovo-silicone-heaters/products/keenovo-square-silicone-heater-3d-printer-build-plate-heatbed-heating-pad?variant=12459486314551)
+    - 750W? It would be interesting to see how fast it would heat up.
   - [Plate](https://dfh.fm/collections/front-page-new/products/graded-aluminum-beds-by-lightweight-labware?variant=44156405907678)
   - [Kinematic Mount Brace](https://mandalaroseworks.com/products/kinematic-center-brace-for-voron-2-4)
   - [Mount wings](https://mandalaroseworks.com/products/voron-wings)
