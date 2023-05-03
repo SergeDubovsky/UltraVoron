@@ -27,6 +27,11 @@
   - [KnoMi](https://biqu.equipment/products/bigtreetech-knomi-v1-0?_pos=64&_sid=e57d520f8&_ss=r)
   - SSR [Omron](https://www.digikey.com/en/products/detail/omron-automation-and-safety/G3NA-210B-UTU-DC5-24/634443?)
     - 10A? 1.1kW is bit tight. Need to research if it makes sense to add more amps.
+  - Motors:
+    - Moons' [MS17HD6P4200](https://www.moonsindustries.com/p/nema-17-standard-hybrid-stepper-motors/ms17hd6p4200-000004611110008905)
+    - StepperOnline: [17HS19-2004S2](https://www.omc-stepperonline.com/nema-17-bipolar-59ncm-84oz-in-2a-42x48mm-4-wires-w-1m-cable-connector-17hs19-2004s1)
+    - LDO [LDO-42STH48-2804](https://www.fabreeko.com/products/ldo-42sth48-2804-ac-ah-ahs80-super-power-motors-by-ldo?variant=43913432858879)
+    - StepServo [StepServo A3dp-4806](https://lukeslabonline.com/products/stepservo-a3dp-4806?_pos=1&_sid=deb75c0a7&_ss=r&variant=43236680270058) yay $340/each
 - Vibration Management
 - Frame
   - [DFM Space Gray](https://dfh.fm/collections/frames/products/dfh-voron-2-4-frame-kit?variant=43644815737054)
