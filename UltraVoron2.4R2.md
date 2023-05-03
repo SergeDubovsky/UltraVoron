@@ -32,6 +32,7 @@
     - StepperOnline: [17HS19-2004S2](https://www.omc-stepperonline.com/nema-17-bipolar-59ncm-84oz-in-2a-42x48mm-4-wires-w-1m-cable-connector-17hs19-2004s1)
     - LDO [LDO-42STH48-2804](https://www.fabreeko.com/products/ldo-42sth48-2804-ac-ah-ahs80-super-power-motors-by-ldo?variant=43913432858879)
     - StepServo [StepServo A3dp-4806](https://lukeslabonline.com/products/stepservo-a3dp-4806?_pos=1&_sid=deb75c0a7&_ss=r&variant=43236680270058) yay $340/each
+    - motechmotor [MT-1705HS200A](http://motechmotor.com/productDetail-0104-31.html) 60mm not sure if it's going to fit. The rest seems interesting.
 - Vibration Management
 - Frame
   - [DFM Space Gray](https://dfh.fm/collections/frames/products/dfh-voron-2-4-frame-kit?variant=43644815737054)
