@@ -25,6 +25,8 @@
   - CAN? [EBB2240](https://biqu.equipment/collections/expansion-board/products/bigtreetech-ebb-sb2209-can-v1-0?variant=40214283485282)
     - 2290 vs 2240, SPI vs UART. Need to research more. Also, there might be some other options.
   - [KnoMi](https://biqu.equipment/products/bigtreetech-knomi-v1-0?_pos=64&_sid=e57d520f8&_ss=r)
+  - SSR [Omron](https://www.digikey.com/en/products/detail/omron-automation-and-safety/G3NA-210B-UTU-DC5-24/634443?)
+    - 10A? 1.1kW is bit tight. Need to research if it makes sense to add more amps.
 - Vibration Management
 - Frame
   - [DFM Space Gray](https://dfh.fm/collections/frames/products/dfh-voron-2-4-frame-kit?variant=43644815737054)
@@ -34,6 +36,8 @@
 - Buildplate
   - [Heater](https://keenovo.store/collections/standard-keenovo-silicone-heaters/products/keenovo-square-silicone-heater-3d-printer-build-plate-heatbed-heating-pad?variant=12459486314551)
     - 750W? It would be interesting to see how fast it would heat up.
+  - Another [Heater](https://www.fabreeko.com/collections/v2-4/products/fabreeko-edge-to-edge-heaters-for-voron-printers?variant=42625668120831)
+      - Edge-to-edge from Fabreeko. Need to keep an eye on [Polyamide option](https://www.fabreeko.com/collections/v0/products/ldo-v0-2-0-1-s1-polyimide-heater-power-supply-upgrade), if LDO decides to do it for larger format. 
   - [Plate](https://dfh.fm/collections/front-page-new/products/graded-aluminum-beds-by-lightweight-labware?variant=44156405907678)
   - [Kinematic Mount Brace](https://mandalaroseworks.com/products/kinematic-center-brace-for-voron-2-4)
   - [Mount wings](https://mandalaroseworks.com/products/voron-wings)
