@@ -39,6 +39,9 @@
 - Misc
 - Cables
 - Panels
+- Parts kit:
+  - [Chaoticlab CNC](https://www.aliexpress.us/item/3256805089623652.html)
+  - [Chaoticlab CF](https://www.aliexpress.us/item/3256805371839578.html)
 - Buildplate
   - [Heater](https://keenovo.store/collections/standard-keenovo-silicone-heaters/products/keenovo-square-silicone-heater-3d-printer-build-plate-heatbed-heating-pad?variant=12459486314551)
     - 750W? It would be interesting to see how fast it would heat up.
