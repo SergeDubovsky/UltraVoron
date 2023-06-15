@@ -40,8 +40,9 @@
 - Cables
 - Panels
 - Parts kit:
-  - [Chaoticlab CNC](https://www.aliexpress.us/item/3256805089623652.html)
-  - [Chaoticlab CF](https://www.aliexpress.us/item/3256805371839578.html)
+  - [x][CNC from Microcenter](https://www.microcenter.com/product/659593/voron-v24-compatible-12-rail-cnc-weight-loss-structural-kit-parts-set-for-voron-24-3d-printer)
+  - [ ][Chaoticlab CNC](https://www.aliexpress.us/item/3256805089623652.html)
+  - [ ][Chaoticlab CF](https://www.aliexpress.us/item/3256805371839578.html)
 - Buildplate
   - [Heater](https://keenovo.store/collections/standard-keenovo-silicone-heaters/products/keenovo-square-silicone-heater-3d-printer-build-plate-heatbed-heating-pad?variant=12459486314551)
     - 750W? It would be interesting to see how fast it would heat up.
