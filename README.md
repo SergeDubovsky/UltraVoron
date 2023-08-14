@@ -39,7 +39,8 @@
     - [ ] motechmotor [MT-1705HS200A](http://motechmotor.com/productDetail-0104-31.html) 60mm not sure if it's going to fit. The rest seems interesting.
 - Vibration Management
 - Frame
-  - [DFM Space Gray](https://dfh.fm/collections/frames/products/dfh-voron-2-4-frame-kit?variant=43644815737054)
+  - [ ] [DFM Space Gray](https://dfh.fm/collections/frames/products/dfh-voron-2-4-frame-kit?variant=43644815737054)
+  - [x] [Fabreeko Space Gray](https://www.fabreeko.com/products/ldo-voron-v2-4-frame-kit?variant=44096947519743)
 - Misc
 - Cables
 - Panels
