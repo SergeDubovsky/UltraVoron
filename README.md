@@ -58,5 +58,5 @@
   - [OSEQ plate](https://oseq.io/products/oseq-safe-sheet-350x350mm)
   - [OSEQ magnetic backer](https://oseq.io/products/strong-magnetic-sticker-for-350x350-heatbed)
 - Meshing/QLG
-- [ ] [Beacon](https://beacon3d.com/product/beacon) I bought it, but it's not clear if I will end-up using it in the build. The need to have uniform magnet backing on the build plate might be a deal-breaker. I have a MandalaRose mag bed and I like it alot. I might be wrong, but the magnetic sheet seems to be the biggest contributor to bed variance. I will keep this one open.
-- [x] [Mellow Voron CNC Tap](https://www.aliexpress.us/item/3256805587288451.html): I can't resist a shiny CNC. This skeletonized TAP looks amazing. I will update, when it arrives.
+  - [ ] [Beacon](https://beacon3d.com/product/beacon) I bought it, but it's not clear if I will end-up using it in the build. The need to have uniform magnet backing on the build plate might be a deal-breaker. I have a MandalaRose mag bed and I like it alot. I might be wrong, but the magnetic sheet seems to be the biggest contributor to bed variance. I will keep this one open.
+  - [x] [Mellow Voron CNC Tap](https://www.aliexpress.us/item/3256805587288451.html): I can't resist a shiny CNC. This skeletonized TAP looks amazing. I will update, when it arrives.
