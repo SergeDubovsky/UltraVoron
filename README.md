@@ -20,7 +20,7 @@
 - Electronics
   - Controller:
     - [ ] [BTT Octo Pro](https://biqu.equipment/collections/control-board/products/bigtreetech-octopus-pro-v1-0-chip-f446?variant=40310085812322): That seems to be the most flexilbe option. Also, so far it's to only way to use 48v motors. The Manta seems great as well, however, the CB-1 board might not be the best option, compared to OrangePi5B.
-    - [ ] [BTT Octopus Max EZ](https://biqu.equipment/collections/control-board/products/bigtreetech-btt-octopusmax-ez-for-3d-printer): I ordered this one. With 6 5160Pro RGB. Because Gucci.
+    - [x] [BTT Octopus Max EZ](https://biqu.equipment/collections/control-board/products/bigtreetech-btt-octopusmax-ez-for-3d-printer): I ordered this one. With 6 5160Pro RGB. Because Gucci.
   - OrangePi 5B.
     - Seems to be the most powerful option on the market.
   - CAN? [EBB2240](https://biqu.equipment/collections/expansion-board/products/bigtreetech-ebb-sb2209-can-v1-0?variant=40214283485282)
