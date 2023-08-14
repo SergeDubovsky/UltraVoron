@@ -28,8 +28,9 @@
   - CAN? [EBB2240](https://biqu.equipment/collections/expansion-board/products/bigtreetech-ebb-sb2209-can-v1-0?variant=40214283485282)
     - 2290 vs 2240, SPI vs UART. Need to research more. Also, there might be some other options.
   - [KnoMi](https://biqu.equipment/products/bigtreetech-knomi-v1-0?_pos=64&_sid=e57d520f8&_ss=r)
-  - SSR [Omron](https://www.digikey.com/en/products/detail/omron-automation-and-safety/G3NA-210B-UTU-DC5-24/634443?)
-    - 10A? 1.1kW is bit tight. Need to research if it makes sense to add more amps.
+  - SSR
+    - [ ] [Omron](https://www.digikey.com/en/products/detail/omron-automation-and-safety/G3NA-210B-UTU-DC5-24/634443?): 10A? 1.1kW is bit tight. Need to research if it makes sense to add more amps.
+    - [ ] [D2440](https://www.digikey.com/en/products/detail/sensata-crydom/D2440/221764): 40 AMP for $63.58. Looks like a great option
   - Motors:
     - [ ] Moons' [MS17HD6P4200](https://www.moonsindustries.com/p/nema-17-standard-hybrid-stepper-motors/ms17hd6p4200-000004611110008905)
     - [ ] StepperOnline: [17HS19-2004S2](https://www.omc-stepperonline.com/nema-17-bipolar-59ncm-84oz-in-2a-42x48mm-4-wires-w-1m-cable-connector-17hs19-2004s1)
