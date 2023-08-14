@@ -21,8 +21,10 @@
   - Controller:
     - [ ] [BTT Octo Pro](https://biqu.equipment/collections/control-board/products/bigtreetech-octopus-pro-v1-0-chip-f446?variant=40310085812322): That seems to be the most flexilbe option. Also, so far it's to only way to use 48v motors. The Manta seems great as well, however, the CB-1 board might not be the best option, compared to OrangePi5B.
     - [x] [BTT Octopus Max EZ](https://biqu.equipment/collections/control-board/products/bigtreetech-btt-octopusmax-ez-for-3d-printer): I ordered this one. With 6 5160Pro RGB. Because Gucci.
-  - OrangePi 5B.
-    - Seems to be the most powerful option on the market.
+  - Klipper host:
+    - [ ] [OrangePi 5B](https://a.co/d/esz9qjP): I orderd this board. It's seriously awesome. The eMMC boot is ~8 seconds to Klipperscreen. It handles 60FPS FullHD with no issues. It handles 30FPS on 4K. The negative side, the GPIO is not 40 pin. The IO2CAN won't fit it.
+    - [ ] [BTT PI](https://biqu.equipment/collections/control-board/products/bigtreetech-btt-pi-v1-2?variant=40326121980002): Not as powerful. But it does have native [CAN](https://biqu.equipment/collections/control-board/products/bigtreetech-btt-pi-v1-2?variant=40332289867874) "HAT"-ish board.
+    - [ ] Original [RasPi4](https://www.pishop.us/product/raspberry-pi-4-model-b-8gb/). The availability is still an issue. I got couple boards, so I might use one in this build. I got the [IO2CAN](https://github.com/bigtreetech/IO2CAN) and a POE HAT for it. Ideally, I would love to run the Klipper on POE and use the [BIGTREETECH Relay V1.2](https://biqu.equipment/collections/expansion-board/products/bigtreetech-reply-v1-2-automatic-shutdown-module-after-printing) for the power management. We'll see how it goes.
   - CAN? [EBB2240](https://biqu.equipment/collections/expansion-board/products/bigtreetech-ebb-sb2209-can-v1-0?variant=40214283485282)
     - 2290 vs 2240, SPI vs UART. Need to research more. Also, there might be some other options.
   - [KnoMi](https://biqu.equipment/products/bigtreetech-knomi-v1-0?_pos=64&_sid=e57d520f8&_ss=r)
