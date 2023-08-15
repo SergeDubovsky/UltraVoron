@@ -62,5 +62,6 @@
 - Meshing/QLG
   - [ ] [Beacon](https://beacon3d.com/product/beacon) I bought it, but it's not clear if I will end-up using it in the build. The need to have uniform magnet backing on the build plate might be a deal-breaker. I have a MandalaRose mag bed and I like it alot. I might be wrong, but the magnetic sheet seems to be the biggest contributor to bed variance. I will keep this one open.
   - [x] [Mellow Voron CNC Tap](https://www.aliexpress.us/item/3256805587288451.html): I can't resist a shiny CNC. This skeletonized TAP looks amazing. I will update, when it arrives.
+  - [ ] [VitaliTAP](https://discord.com/channels/460117602945990666/713929975606018098/1140807797949333545): I went with Mellow. No idea if this option is better or not. I will keep it here.
 - Mods:
   - [Misumi RBPB5](https://us.misumi-ec.com/vona2/detail/110300371460/?HissuCode=RBPB5) a better mount for the gantry, using [RBPB5](https://us.misumi-ec.com/vona2/detail/110300371460/?HissuCode=RBPB5)
