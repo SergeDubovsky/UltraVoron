@@ -1,13 +1,3 @@
-[![preamble](https://img.youtube.com/vi/LXDIS3NzB84/0.jpg)](https://www.youtube.com/watch?v=LXDIS3NzB84 "Opulence, I haz it.")
-# High level vision
-- All HIWIN
-- 48v motors
-- Chaotic labs CNC kit
-- Beacon or CL CNC Tap?
-- Nozzle Cam
-- Powge motion
-- Labware graded bed from DFM
-- Kinetic mount from mandalaroseworks
 # BOM
 - Fasteners
   - [Anodized, magnetic, high grade](https://www.boltdepot.com/Metric_socket_cap_Class_12.9_alloy_steel_black_oxide_finish_3mm_x_0.5mm.aspx)
