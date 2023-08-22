@@ -1,3 +1,5 @@
+# Thoughts in general
+The Voron is not a cheap printer. It is also a most modifiable printer on the market. We have freedom to choose parts quality and vendors. This project is an attempt to use the highest quality parts in a pursuit of high quality prints.
 # BOM
 - Fasteners
   - [Anodized, magnetic, high grade](https://www.boltdepot.com/Metric_socket_cap_Class_12.9_alloy_steel_black_oxide_finish_3mm_x_0.5mm.aspx)
