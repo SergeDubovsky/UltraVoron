@@ -21,6 +21,7 @@ I aim to research every component on the BOM to determine a "better option" in t
   - [ ] [Gates GT3](https://www.fabreeko.com/products/gates-gt3-open-belt-ll-gt3-6-9-reinforced)
 - Toolheads:
   - [ ] Stealthburner
+  - [ ] [SB+Bondtech LGX Lite](https://github.com/BondtechAB/Voron/tree/main/Voron_2.4-VT-SW/LGX_lite)
   - [ ] [HB XOL](https://www.fabreeko.com/products/xol-2-toolhead-by-armchair-engineering?variant=44154053296383) [GitHub](https://github.com/Armchair-Engineering/Xol-Toolhead) of the project
   - [ ] [DragonBurner](https://github.com/chirpy2605/voron/tree/main/general/Large_Voron_Mounts#option-2-tap-probe-front)
   - [ ] [BreakNeck](https://github.com/leddhedd/BreakNeck)
