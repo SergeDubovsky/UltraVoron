@@ -22,6 +22,7 @@ I aim to research every component on the BOM to determine a "better option" in t
 - Toolheads:
   - [ ] Stealthburner
   - [ ] [HB XOL](https://www.fabreeko.com/products/xol-2-toolhead-by-armchair-engineering?variant=44154053296383) [GitHub](https://github.com/Armchair-Engineering/Xol-Toolhead) of the project
+  - [ ] [DragonBurner](https://github.com/chirpy2605/voron/tree/main/general/Large_Voron_Mounts#option-2-tap-probe-front)
 - Electronics
   - Controller:
     - [ ] [BTT Octo Pro](https://biqu.equipment/collections/control-board/products/bigtreetech-octopus-pro-v1-0-chip-f446?variant=40310085812322): That seems to be the most flexilbe option. Also, so far it's to only way to use 48v motors. The Manta seems great as well, however, the CB-1 board might not be the best option, compared to OrangePi5B.
