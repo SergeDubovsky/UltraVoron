@@ -18,6 +18,7 @@
   - [ ] HIWIN:
     - [ ] [Chaoticlabs](https://chaoticlab.xyz/products/mgn12h-mgn9h-mgn7h-hiwin-guide-rail-1?variant=40350092820578) for ~$60. I am researching if that is a real HIWIN or a copy
     - [ ] [Made by HIWIN, in Taiwan](https://www.aliexpress.us/item/3256804708445237.html) if there is such a thing
+    - [ ] [MotionUSA](https://motionusa.com/manufacturer/hiwin/mgnr12r0370hm-e10-e10-hiwin) $126.00 for the rail and $46 for the [carriage](https://motionusa.com/manufacturer/hiwin/mgn12hzfc-hiwin)
   - [ ] Schneeberger:
     - [ ] at [rs-online](https://us.rs-online.com/product/schneeberger/mn-12-1000-10-15-g1-v1/71904298/) for the rail and carriage separately. The total price is around $300
   - [ ] IKO: Seems to be even more expensive.
