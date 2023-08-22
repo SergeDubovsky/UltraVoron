@@ -1,6 +1,9 @@
-# Thoughts in general
-The Voron is not a cheap printer. It is also a most modifiable printer on the market. We have freedom to choose parts quality and vendors. This project is an attempt to use the highest quality parts in a pursuit of high quality prints.
-# BOM
+# Thoughts in General
+The Voron is not an inexpensive printer; however, it stands out as one of the most modifiable printers on the market. We're afforded the freedom to choose both the quality of parts and our preferred vendors. With this project, my goal is to utilize the highest quality parts in pursuit of superior print quality.
+
+I aim to research every component on the BOM to determine a "better option" in terms of both quality and price. A huge thank you to the [bling project](https://discord.com/channels/460117602945990666/713929975606018098) for their invaluable advice and patience.
+
+# Parts and vendors
 - Fasteners
   - [Anodized, magnetic, high grade](https://www.boltdepot.com/Metric_socket_cap_Class_12.9_alloy_steel_black_oxide_finish_3mm_x_0.5mm.aspx)
     - 12.9 seems to be the highes grade. I wonder if there is a way to get the "nice finish" variant of it. Really smooth and precise.
