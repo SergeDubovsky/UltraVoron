@@ -17,8 +17,11 @@ I aim to research every component on the BOM to determine a "better option" in t
   - [ ] Schneeberger:
     - [ ] at [rs-online](https://us.rs-online.com/product/schneeberger/mn-12-1000-10-15-g1-v1/71904298/) for the rail and carriage separately. The total price is around $300
   - [ ] IKO: Seems to be even more expensive.
-- Motion: Belts:
+- Motion: Belts
   - [ ] [Gates GT3](https://www.fabreeko.com/products/gates-gt3-open-belt-ll-gt3-6-9-reinforced)
+- Toolheads:
+  - [ ] Stealthburner
+  - [ ] [HB Mantis](https://www.fabreeko.com/products/xol-2-toolhead-by-armchair-engineering?variant=44154053296383)
 - Electronics
   - Controller:
     - [ ] [BTT Octo Pro](https://biqu.equipment/collections/control-board/products/bigtreetech-octopus-pro-v1-0-chip-f446?variant=40310085812322): That seems to be the most flexilbe option. Also, so far it's to only way to use 48v motors. The Manta seems great as well, however, the CB-1 board might not be the best option, compared to OrangePi5B.
