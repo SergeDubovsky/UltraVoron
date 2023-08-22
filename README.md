@@ -7,7 +7,7 @@ I aim to research every component on the BOM to determine a "better option" in t
 - Fasteners
   - [Anodized, magnetic, high grade](https://www.boltdepot.com/Metric_socket_cap_Class_12.9_alloy_steel_black_oxide_finish_3mm_x_0.5mm.aspx)
     - 12.9 seems to be the highes grade. I wonder if there is a way to get the "nice finish" variant of it. Really smooth and precise.
-- Motion
+- Motion: Linear rails
   - [ ] [Powge](https://www.aliexpress.us/item/2255800751045001.html?gatewayAdapt=glo2usa4itemAdapt&_randl_shipto=US)?
     - Need to do more research.
   - [ ] HIWIN:
@@ -17,6 +17,8 @@ I aim to research every component on the BOM to determine a "better option" in t
   - [ ] Schneeberger:
     - [ ] at [rs-online](https://us.rs-online.com/product/schneeberger/mn-12-1000-10-15-g1-v1/71904298/) for the rail and carriage separately. The total price is around $300
   - [ ] IKO: Seems to be even more expensive.
+- Motion: Belts:
+  - [ ] [Gates GT3](https://www.fabreeko.com/products/gates-gt3-open-belt-ll-gt3-6-9-reinforced)
 - Electronics
   - Controller:
     - [ ] [BTT Octo Pro](https://biqu.equipment/collections/control-board/products/bigtreetech-octopus-pro-v1-0-chip-f446?variant=40310085812322): That seems to be the most flexilbe option. Also, so far it's to only way to use 48v motors. The Manta seems great as well, however, the CB-1 board might not be the best option, compared to OrangePi5B.
