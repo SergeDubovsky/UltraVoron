@@ -18,23 +18,27 @@ I aim to research every component on the BOM to determine a "better option" in t
     - [ ] at [rs-online](https://us.rs-online.com/product/schneeberger/mn-12-1000-10-15-g1-v1/71904298/) for the rail and carriage separately. The total price is around $300
   - [ ] IKO: Seems to be even more expensive.
 - Motion: Belts
-  - [ ] [Gates GT3](https://www.fabreeko.com/products/gates-gt3-open-belt-ll-gt3-6-9-reinforced)
+  - [x] [Gates GT3](https://www.fabreeko.com/products/gates-gt3-open-belt-ll-gt3-6-9-reinforced)
 - Toolheads:
   - [ ] Stealthburner
   - [ ] [SB+Bondtech LGX Lite](https://github.com/BondtechAB/Voron/tree/main/Voron_2.4-VT-SW/LGX_lite)
   - [ ] [HB XOL](https://www.fabreeko.com/products/xol-2-toolhead-by-armchair-engineering?variant=44154053296383) [GitHub](https://github.com/Armchair-Engineering/Xol-Toolhead) of the project
   - [ ] [DragonBurner](https://github.com/chirpy2605/voron/tree/main/general/Large_Voron_Mounts#option-2-tap-probe-front)
+  - [X] [Rapidburner](https://github.com/chirpy2605/voron/tree/main/V0/Rapid_Burner). So far, this is most impressive toolhead in my list. It's light, well designed and the development team is great.
   - [ ] [BreakNeck](https://github.com/leddhedd/BreakNeck)
 - Electronics
   - Controller:
     - [ ] [BTT Octo Pro](https://biqu.equipment/collections/control-board/products/bigtreetech-octopus-pro-v1-0-chip-f446?variant=40310085812322): That seems to be the most flexilbe option. Also, so far it's to only way to use 48v motors. The Manta seems great as well, however, the CB-1 board might not be the best option, compared to OrangePi5B.
     - [x] [BTT Octopus Max EZ](https://biqu.equipment/collections/control-board/products/bigtreetech-btt-octopusmax-ez-for-3d-printer): I ordered this one. With 6 5160Pro RGB. Because Gucci.
   - Klipper host:
-    - [ ] [OrangePi 5B](https://a.co/d/esz9qjP): I orderd this board. It's seriously awesome. The eMMC boot is ~8 seconds to Klipperscreen. It handles 60FPS FullHD with no issues. It handles 30FPS on 4K. The negative side, the GPIO is not 40 pin. The IO2CAN won't fit it.
+    - [ ] [Raspberry Pi5](https://www.pishop.us/product/raspberry-pi-5-4gb/)
+    - [x] [OrangePi 5B](https://a.co/d/esz9qjP): I orderd this board. It's seriously awesome. The eMMC boot is ~8 seconds to Klipperscreen. It handles 60FPS FullHD with no issues. It handles 30FPS on 4K. So far, this seems to be a prime candidate.
     - [ ] [BTT PI](https://biqu.equipment/collections/control-board/products/bigtreetech-btt-pi-v1-2?variant=40326121980002): Not as powerful. But it does have native [CAN](https://biqu.equipment/collections/control-board/products/bigtreetech-btt-pi-v1-2?variant=40332289867874) "HAT"-ish board.
     - [ ] Original [RasPi4](https://www.pishop.us/product/raspberry-pi-4-model-b-8gb/). The availability is still an issue. I got couple boards, so I might use one in this build. I got the [IO2CAN](https://github.com/bigtreetech/IO2CAN) and a POE HAT for it. Ideally, I would love to run the Klipper on POE and use the [BIGTREETECH Relay V1.2](https://biqu.equipment/collections/expansion-board/products/bigtreetech-reply-v1-2-automatic-shutdown-module-after-printing) for the power management. We'll see how it goes.
-  - CAN? [EBB2240](https://biqu.equipment/collections/expansion-board/products/bigtreetech-ebb-sb2209-can-v1-0?variant=40214283485282)
-    - 2290 vs 2240, SPI vs UART. Need to research more. Also, there might be some other options.
+  - CAN
+    - [ ] [EBB2240](https://biqu.equipment/collections/expansion-board/products/bigtreetech-ebb-sb2209-can-v1-0?variant=40214283485282)
+      - 2209 vs 2240, SPI vs UART. Need to research more. Also, there might be some other options.
+    - [x] [BTT EBB36](https://biqu.equipment/collections/expansion-board/products/bigtreetech-ebb-36-42-can-bus-for-connecting-klipper-expansion-device?variant=39760665149538) Need more research on the thermistor solution. From what I gather, PT1000 might be a better option for the uber-Voron hotend.  
   - [KnoMi](https://biqu.equipment/products/bigtreetech-knomi-v1-0?_pos=64&_sid=e57d520f8&_ss=r)
   - SSR
     - [ ] [Omron](https://www.digikey.com/en/products/detail/omron-automation-and-safety/G3NA-210B-UTU-DC5-24/634443?): 10A? 1.1kW is bit tight. Need to research if it makes sense to add more amps.
@@ -45,6 +49,7 @@ I aim to research every component on the BOM to determine a "better option" in t
     - [ ] LDO [LDO-42STH48-2804](https://www.fabreeko.com/products/ldo-42sth48-2804-ac-ah-ahs80-super-power-motors-by-ldo?variant=43913432858879)
     - [ ] StepServo [StepServo A3dp-4806](https://lukeslabonline.com/products/stepservo-a3dp-4806?_pos=1&_sid=deb75c0a7&_ss=r&variant=43236680270058) yay $340/each
     - [ ] motechmotor [MT-1705HS200A](http://motechmotor.com/productDetail-0104-31.html) 60mm not sure if it's going to fit. The rest seems interesting.
+    - [ ] Orientalmotor [PKP245D23A2](https://catalog.orientalmotor.com/item/2-phase-bipolar-stepper-motors/42mm-pkp-series-2-phase-bipolar-stepper-motors/pkp245d23a2). Very high holding torque. And it's impressive in general. $63/each
 - Vibration Management
 - Frame
   - [ ] [DFM Space Gray](https://dfh.fm/collections/frames/products/dfh-voron-2-4-frame-kit?variant=43644815737054)
