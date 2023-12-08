@@ -39,6 +39,9 @@ I aim to research every component on the BOM to determine a "better option" in t
     - [ ] [EBB2240](https://biqu.equipment/collections/expansion-board/products/bigtreetech-ebb-sb2209-can-v1-0?variant=40214283485282)
       - 2209 vs 2240, SPI vs UART. Need to research more. Also, there might be some other options.
     - [x] [BTT EBB36](https://biqu.equipment/collections/expansion-board/products/bigtreetech-ebb-36-42-can-bus-for-connecting-klipper-expansion-device?variant=39760665149538) Need more research on the thermistor solution. From what I gather, PT1000 might be a better option for the uber-Voron hotend.  
+  - CAN Cable
+    - [x] [Igus CF9-05-04](https://www.igus.com/product?artNr=CF9-05-04). Thin, light, flexible and springy. Ideal CAN cable. Class7: Cables for continuous movement in e-chains for heavy-duty use with smallest radii, indoor and outdoor applications, for radii from 4 x d, speed up to 10 m/s and more
+    - [ ] [Igus CF880-05-04](https://www.igus.com/product?artNr=CF880-05-04). Another amazing cable. But this one is rated chainflex class: 3.1.1.1, ( Chain-suitable cables without special structure)
   - [KnoMi](https://biqu.equipment/products/bigtreetech-knomi-v1-0?_pos=64&_sid=e57d520f8&_ss=r)
   - SSR
     - [ ] [Omron](https://www.digikey.com/en/products/detail/omron-automation-and-safety/G3NA-210B-UTU-DC5-24/634443?): 10A? 1.1kW is bit tight. Need to research if it makes sense to add more amps.
